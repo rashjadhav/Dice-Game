@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(252, 227, 227);
+    text-align: center;
+}
+
+span {
+    display: inline-block;
+    width: 110px;
+    height: 110px;
+
+
+}
+
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin: 10px;
+}
+
+button {
+    background-color: rgb(86, 228, 86);
+}
+
+.maindiv {
+    width: 420px;
+    padding: 10px;
+    border: 5px solid gray;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  
+   
+
+
+}
